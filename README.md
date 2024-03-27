@@ -1,2 +1,2 @@
 # Gabs Dev
- Primeiro repositório Gabs
+Aprendendo um pouco sobre programação
